@@ -1,18 +1,8 @@
 ## Image Search App
 
-```markdown
-# Image Search App
-
-This is a simple image search app that allows users to search for images using the Unsplash API.
- Users can input a search query, and the app will display
-relevant images along with links to the original source on Unsplash.
-
-## Prerequisites
-
-Before using this app, make sure you have your own Unsplash account and obtain your
-access key (API key) from the [Unsplash Developer](https://unsplash.com/developers) website.
-
 ## Getting Started
+
+```markdown
 
 1. Clone the repository:
 
