@@ -1,4 +1,4 @@
-
+## Image Search App
 
 ```markdown
 # Image Search App
@@ -14,7 +14,7 @@ Before using this app, make sure you have your own Unsplash account and obtain y
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/image-search-app.git
+   git clone https://github.com/Indula-Perera/JS-Image-Search.git
    cd image-search-app
    ```
 
