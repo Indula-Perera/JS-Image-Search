@@ -20,7 +20,7 @@
 
 3. Open `index.html` in your browser or host the files on a web server.
    
-## preview
+## Preview
 ![Screenshot 2023-11-09 155604](https://github.com/Indula-Perera/JS-Image-Search/assets/105506303/2111719c-1fb0-4cbf-b34a-e9b1ab636239)
 
 ## Usage
