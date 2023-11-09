@@ -20,8 +20,6 @@ access key (API key) from the [Unsplash Developer](https://unsplash.com/develope
    git clone https://github.com/Indula-Perera/JS-Image-Search.git
    cd image-search-app
    ```
-##preview
-![Screenshot 2023-11-09 155604](https://github.com/Indula-Perera/JS-Image-Search/assets/105506303/2111719c-1fb0-4cbf-b34a-e9b1ab636239)
 
 2. Create a file named `config.js` in the root directory and add your Unsplash access key:
 
@@ -31,6 +29,9 @@ access key (API key) from the [Unsplash Developer](https://unsplash.com/develope
    ```
 
 3. Open `index.html` in your browser or host the files on a web server.
+   
+## preview
+![Screenshot 2023-11-09 155604](https://github.com/Indula-Perera/JS-Image-Search/assets/105506303/2111719c-1fb0-4cbf-b34a-e9b1ab636239)
 
 ## Usage
 
